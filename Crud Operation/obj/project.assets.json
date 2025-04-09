@@ -3416,11 +3416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atade\\source\\repos\\Crud Operation\\Crud Operation\\Crud Operation.csproj",
+      "projectUniqueName": "C:\\Users\\atade\\OneDrive\\Desktop\\react-backend\\MyFirstProject\\Crud Operation\\Crud Operation.csproj",
       "projectName": "Crud Operation",
-      "projectPath": "C:\\Users\\atade\\source\\repos\\Crud Operation\\Crud Operation\\Crud Operation.csproj",
+      "projectPath": "C:\\Users\\atade\\OneDrive\\Desktop\\react-backend\\MyFirstProject\\Crud Operation\\Crud Operation.csproj",
       "packagesPath": "C:\\Users\\atade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\atade\\source\\repos\\Crud Operation\\Crud Operation\\obj\\",
+      "outputPath": "C:\\Users\\atade\\OneDrive\\Desktop\\react-backend\\MyFirstProject\\Crud Operation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
